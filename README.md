@@ -5,16 +5,27 @@ Very preliminary script. Use with skepticsm. Requires `python3`
 
 ### Usage 
 
-* clone the repostitory locally and enter the folder (for default `cd matchgreek`)
-* run `python matchgreek.py FILEPATH`(or python3 depending on your system)
+* Elone the repostitory locally 
+```
+ git clone https://github.com/seyhunsaral/matchgreek.git
+```
+* Change the working directory to the repository dir
+```
+cd matchgreek
+```
+* Run script with `pyhton` (or `python3` depending on your system 
+```
+python matchgreek.py FILEPATH`
+```
 
-python3 matchgreek.py ../exampletex.tex                     seyhun@s-mpi-dell
-matchgreek v.0.1
+
+
 
 #### Sample output 
 `python matchgreek.py my_tex_file.tex`
 
 ```
+matchgreek v.0.1
 =====Used Letters=====
 σ   \sigma
 Ψ   \Psi
