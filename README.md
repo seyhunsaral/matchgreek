@@ -1,7 +1,11 @@
 matchgreek : Simply tells you which greek letters you used in LaTeX
 
-The idea is based on the tweet by @IvanWerning
-Very preliminary script. Use with skepticsm. Requires `python3`
+The idea is based on the tweet by @IvanWerning  
+WARNING: Very preliminary script. Use with skepticsm.   
+
+###
+Requirements
+* `python3`
 
 ### Usage 
 
