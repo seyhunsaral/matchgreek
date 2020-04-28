@@ -15,7 +15,7 @@ matchgreek v.0.1
 `python matchgreek.py my_tex_file.tex`
 
 ```
-=====Used Letters=====
+=====Unsed Letters=====
 σ   \sigma
 Ψ   \Psi
 Ω   \Omega
