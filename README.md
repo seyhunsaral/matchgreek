@@ -15,11 +15,8 @@ cd matchgreek
 ```
 * Run script with `pyhton` (or `python3` depending on your system 
 ```
-python matchgreek.py FILEPATH`
+python matchgreek.py FILEPATH
 ```
-
-
-
 
 #### Sample output 
 ```
