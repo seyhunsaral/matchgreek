@@ -22,55 +22,55 @@ python matchgreek.py FILEPATH`
 
 
 #### Sample output 
-`python matchgreek.py my_tex_file.tex`
-
 ```
+ $ python3 matchgreek.py ~/my_latex_file.tex
+ 
 matchgreek v.0.1
 =====Used Letters=====
-σ   \sigma
-Ψ   \Psi
-Ω   \Omega
-τ   \tau
-δ   \delta
 ϕ   \phi
+σ   \sigma
+μ   \mu
 π   \pi
-α   \alpha
-θ   \theta
+τ   \tau
 
 
 
 =====Unused Letters=====
-η   \eta
-Σ   \Sigma
-ς   \varsigma
-ω   \omega
-s   \Upsilon
-λ   \lambda
-Φ   \Phi
-ϵ   \epsilon
-ξ   \xi
-Δ   \Delta
-ρ   \rho
-μ   \mu
-κ   \kappa
-γ   \gamma
-ψ   \psi
+ϝ   \digamma
+α   \alpha
 Λ   \Lambda
+Ω   \Omega
+χ   \chi
+ε   \varepsilon
+ς   \varsigma
+γ   \gamma
+ω   \omega
+ν   \nu
+θ   \theta
+Π   \Pi
+ϰ   \varkappa
+s   \Upsilon
+ϵ   \epsilon
+β   \beta
+ϑ   \vartheta
 Θ   \Theta
 Γ   \Gamma
-ϰ   \varkappa
-ι   \iota
-Π   \Pi
-ν   \nu
-ϝ   \digamma
-ϖ   \varpi
+Δ   \Delta
 Ξ   \Xi
+ι   \iota
+κ   \kappa
+λ   \lambda
 υ   \upsilon
 ζ   \zeta
-χ   \chi
-ϱ   \varrho
-ε   \varepsilon
-β   \beta
 φ   \varphi
-ϑ   \vartheta
+ϱ   \varrho
+ρ   \rho
+Ψ   \Psi
+ξ   \xi
+ϖ   \varpi
+δ   \delta
+ψ   \psi
+Φ   \Phi
+Σ   \Sigma
+η   \eta
 ```
