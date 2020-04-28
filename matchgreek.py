@@ -91,7 +91,7 @@ for l in used_letters:
 
 print("\n" * 2)
 
-print("=" * 5 + "Used Letters" + "=" * 5)
+print("=" * 5 + "Unused Letters" + "=" * 5)
 
 for l in unused_letters:
     print(greek_letters[l]["symbol"] + "   "  + greek_letters[l]["tex"][1:])
