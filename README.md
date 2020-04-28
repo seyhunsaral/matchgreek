@@ -9,7 +9,7 @@ Requirements
 
 ### Usage 
 
-* Elone the repostitory locally 
+* Clone the repostitory on your local machine
 ```
  git clone https://github.com/seyhunsaral/matchgreek.git
 ```
