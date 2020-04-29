@@ -15,7 +15,7 @@ I pushed the package to pip. If you install using pip. The advantage is you can 
 ```
 pip install matchgreek
 ```
-* Run `matchgreek` from command line  
+* Run `matchgreek` from the command line  
 ```
 matchgreek path/to/file/
 ```
