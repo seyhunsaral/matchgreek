@@ -7,8 +7,18 @@ WARNING: Very preliminary script. Use with skepticsm.
 Requirements
 * `python3`
 
-### Usage 
+### Installation & Usage
+#### Option I - install with `pip`
+I pushed the package to pip. If you install using pip. The advantage is you can run the script directly with command `matchgreek`.
 
+* Install with pip (or pip3 depending on your system)
+`pip install matchgreek`
+
+* Run the `matchgreek`
+`matchgreek path/to/file/`
+
+
+#### Option II - Download & run the script
 * Clone the repostitory on your local machine
 ```
  git clone https://github.com/seyhunsaral/matchgreek.git
@@ -19,13 +29,13 @@ cd matchgreek
 ```
 * Run script with `pyhton` (or `python3` depending on your system)
 ```
-python matchgreek.py FILEPATH
+python matchgreek.py path/to/file
 ```
+#### Sample output
+```
+ $ matchgreek.py ~/my_latex_file.tex   # (or python matchgreek.py ~/my_latex_file.tex 
+                                       # if you installed using Option II)
 
-#### Sample output 
-```
- $ python3 matchgreek.py ~/my_latex_file.tex
- 
 matchgreek v.0.1
 =====Used Letters=====
 ϕ   \phi
