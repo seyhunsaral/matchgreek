@@ -1,4 +1,4 @@
-matchgreek : Simply tells you which greek letters you used in LaTeX
+matchgreek : Simply tells you which greek letters you used in LaTeX file.
 
 The idea is based on a tweet by @IvanWerning  
 *WARNING: Very preliminary script. Use with skepticsm.*
