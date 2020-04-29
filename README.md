@@ -3,9 +3,9 @@ matchgreek : Simply tells you which greek letters you used in LaTeX
 The idea is based on a tweet by @IvanWerning  
 WARNING: Very preliminary script. Use with skepticsm.   
 
-###
-Requirements
-* `python3`
+### Requirements
+* `python3` installation 
+* `pip` (if you will install using option I)
 
 ### Installation & Usage
 #### Option I - install with `pip`
