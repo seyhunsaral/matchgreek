@@ -33,7 +33,7 @@ python matchgreek.py path/to/file
 ```
 #### Sample output
 ```
- $ matchgreek.py ~/my_latex_file.tex   # (or python matchgreek.py ~/my_latex_file.tex 
+ $ matchgreek ~/my_latex_file.tex   # (or python matchgreek.py ~/my_latex_file.tex 
                                        # if you installed using Option II)
 
 matchgreek v.0.1
