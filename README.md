@@ -75,4 +75,4 @@ s   \Upsilon
 Σ   \Sigma
 η   \eta
 ```
-ps. it is open-source. feel free to modify and distribute and send pull request
+ps. it is open-source. feel free to modify and distribute and send a pull request
