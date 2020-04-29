@@ -1,7 +1,8 @@
 matchgreek : Simply tells you which greek letters you used in LaTeX
 
 The idea is based on a tweet by @IvanWerning  
-WARNING: Very preliminary script. Use with skepticsm.   
+*WARNING: Very preliminary script. Use with skepticsm.*
+Please let me know if something goes wrong [by opening an issue on Github](https://github.com/seyhunsaral/matchgreek/issues) or by sending me a message on twitter @seyhunsaral.
 
 ### Requirements
 * `python3` installation 
@@ -33,7 +34,7 @@ cd matchgreek
 ```
 python matchgreek.py path/to/file
 ```
-#### Sample output
+### Sample output
 ```
  $ matchgreek ~/my_latex_file.tex   # (or python matchgreek.py ~/my_latex_file.tex 
                                        # if you installed using Option II)
