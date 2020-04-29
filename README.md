@@ -11,12 +11,14 @@ WARNING: Very preliminary script. Use with skepticsm.
 #### Option I - install with `pip`
 I pushed the package to pip. If you install using pip. The advantage is you can run the script directly with command `matchgreek`.
 
-* Install with pip (or pip3 depending on your system)
-`pip install matchgreek`
-
-* Run the `matchgreek`
-`matchgreek path/to/file/`
-
+* Install `matchgreek` package using `pip` (or pip3 depending on your system) 
+```
+pip install matchgreek
+```
+* Run `matchgreek` from command line  
+```
+matchgreek path/to/file/
+```
 
 #### Option II - Download & run the script
 * Clone the repostitory on your local machine
