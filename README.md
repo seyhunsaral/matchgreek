@@ -1,6 +1,6 @@
 matchgreek : Simply tells you which greek letters you used in LaTeX
 
-The idea is based on the tweet by @IvanWerning  
+The idea is based on a tweet by @IvanWerning  
 WARNING: Very preliminary script. Use with skepticsm.   
 
 ###
