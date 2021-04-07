@@ -1,7 +1,7 @@
 matchgreek : Simply tells you which greek letters are already used in a LaTeX file.
 
-The idea is based on [a tweet by @IvanWerning](https://twitter.com/IvanWerning/status/1255091491275526145)
-*WARNING: Very preliminary script. Use with skepticsm.*
+The idea is based on [a tweet by @IvanWerning](https://twitter.com/IvanWerning/status/1255091491275526145)  
+*WARNING: Very preliminary script. Use with skepticsm.*  
 Please let me know if something goes wrong [by opening an issue on Github](https://github.com/seyhunsaral/matchgreek/issues) or by sending me a message on twitter [@aliseyhunsaral](https://www.twitter.com/aliseyhunsaral)
 
 ### Requirements
