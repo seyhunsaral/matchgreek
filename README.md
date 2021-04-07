@@ -90,4 +90,4 @@ s   \Upsilon
 ps. it is open-source. feel free to modify, distribute or send a pull request
 
 ### TODO
-TODO Scan the files included with `\input` and `\include`
+TODO Scan included files with `\input` and `\include`
