@@ -88,3 +88,6 @@ s   \Upsilon
 η   \eta
 ```
 ps. it is open-source. feel free to modify, distribute or send a pull request
+
+### TODO
+TODO Scan the files included with `\input` and `\include`
