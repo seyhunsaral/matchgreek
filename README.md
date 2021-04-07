@@ -1,4 +1,4 @@
-matchgreek : Simply tells you which greek letters you used in LaTeX file.
+matchgreek : Simply tells you which greek letters are already used in a LaTeX file.
 
 The idea is based on a tweet by @IvanWerning  
 *WARNING: Very preliminary script. Use with skepticsm.*
@@ -6,15 +6,14 @@ Please let me know if something goes wrong [by opening an issue on Github](https
 
 ### Requirements
 * `python3` installation 
-* `pip` (if you will install using option I)
+* `pip` (if you will install using Option I below)
 
 ### Installation & Usage
 #### Option I - install with `pip`
-I pushed the package to pip. If you install using pip. The advantage is you can run the script directly with command `matchgreek`.
 
-* Install `matchgreek` package using `pip` (or pip3 depending on your system) 
+* Install `matchgreek` package using `pip3` (or pip depending on your system) 
 ```
-pip install matchgreek
+pip3 install matchgreek
 ```
 * Run `matchgreek` from the command line  
 ```
@@ -30,13 +29,13 @@ matchgreek path/to/file/
 ```
 cd matchgreek
 ```
-* Run script with `pyhton` (or `python3` depending on your system)
+* Run the script with `python3` (or `python` depending on your system)
 ```
-python matchgreek.py path/to/file
+python3 matchgreek.py path/to/file
 ```
 ### Sample output
 ```
- $ matchgreek ~/my_latex_file.tex   # (or python matchgreek.py ~/my_latex_file.tex 
+ $ matchgreek my_latex_file.tex   # (or python matchgreek.py my_latex_file.tex 
                                        # if you installed using Option II)
 
 matchgreek v.0.1
